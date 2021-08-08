@@ -48,14 +48,9 @@ I am fond of creating a media content.
 <code><img height="40" alt="Typescript" title="Typescript" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"></code>
 <code><img height="40" alt="ExpressJS" title="ExpressJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/200px-Expressjs.png"></code>
 <code><img height="40" alt="Flask" title="Flask" src="https://e7.pngegg.com/pngimages/939/2/png-clipart-flask-python-web-framework-representational-state-transfer-software-framework-flask-python-web-application-django-thumbnail.png"></code>
-<code><img height="40" alt="Django" title="Django" src="https://cdn.iconscout.com/icon/free/png-512/django-1-282754.png"></code> 
-  **and many others technologies...**
-<br/>
-
+<code><img height="40" alt="Django" title="Django" src="https://cdn.iconscout.com/icon/free/png-512/django-1-282754.png"></code>
 <code><img height="40" alt="Docker" title="Docker" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
-<code><img height="40" alt="Git" title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
-<code><img height="40" alt="SQL" title="SQL" src="https://img2.freepng.ru/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg"></code>
-<code><img height="40" alt="mongoDB" title="mongoDB" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/220px-MongoDB_Logo.svg.png"></code>
+  **and many others technologies...**
 <br/>
 
 
