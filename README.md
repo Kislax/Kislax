@@ -2,7 +2,7 @@
   
 Hi, My name is Maxim, I full stack developer in MTS Digital. 
 
-I am currently working mainly on Python and Javasprip, but sometimes I use other languages.
+I am currently working mainly on Python and Javaspript, but sometimes I use other languages.
 I have real experience with the doker, writing Pipeline, work on the production of Linux servers, also methodology CICD.
 I am fond of creating a media content.
 
