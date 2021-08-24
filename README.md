@@ -66,7 +66,7 @@ I am fond of creating a media content.
 
 * April 2013 - Jule 2016. System engineer @ [Helios](https://helios.kz/)
 * March 2020 - June 2020.  Marketer @ [Baltavtomatika](https://baltgps.ru/)
-* June 2020 - Jule 2021.  Technical Director @ [Baltavtomatika](https://baltgps.ru/)
+* June 2020 - Jule 2021.  CTO @ [Baltavtomatika](https://baltgps.ru/)
 * August 2021 - Now.  Integrator @ [MTS](https://mts.ru/)
 
 
