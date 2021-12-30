@@ -33,13 +33,7 @@ I am fond of creating a media content.
 
 <code><img height="35" alt="Python" title="Python" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
 <code><img height="35" alt="Javascript" title="Javascript" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png"></code>
-<code><img height="35" alt="PHP" title="PHP" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></code>
-<details>
-  <summary>Language Statistics</summary><br/>
-  <p align="center">
-  <img src="https://wakatime.com/share/@53973d47-f0cd-44c3-a232-1153f66d2d4f/a7b5ac9b-122d-4b2f-aa0f-61c6e3373904.svg" height ="400" />
-  </p>
-</details>
+
 
 #### Technology
 
