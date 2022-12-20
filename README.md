@@ -11,9 +11,6 @@ I am fond of creating a media content.
 <a href="https://t.me/Kislax">
   <img align="left" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1920px-Telegram_2019_Logo.svg.png" />
 </a>
-<a href="https://www.instagram.com/kislax">
-  <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" />
-</a>  
 <a href="https://discord.gg/GHEzPQfT">
   <img align="left" alt="Discord" width="22px" src="https://brandslogos.com/wp-content/uploads/images/discord-logo-vector.svg" />
 </a>
