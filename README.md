@@ -55,11 +55,12 @@ I am fond of creating a media content.
 
 ### Work experience
 
-* April 2013 - Jule 2016. System engineer @ [Helios](https://helios.kz/)
-* March 2020 - June 2020.  Marketer @ [Baltavtomatika](https://baltgps.ru/)
-* June 2020 - Jule 2021.  CTO @ [Baltavtomatika](https://baltgps.ru/)
-* August 2021 - Now.  Integrator @ [MTS](https://mts.ru/)
-
+* April 2013 - Jule 2016. System engineer  @ [Helios](https://helios.kz/)
+* March 2020 - June 2020.  Marketer  @ [Baltavtomatika](https://baltgps.ru/)
+* June 2020 - Jule 2021.  CTO  @ [Baltavtomatika](https://baltgps.ru/)
+* August 2021 - Febrary 2022. Developer  @ [MTS](https://mts.ru/)
+* Febrary 2022 - November 2022. Middle developer  @ [MTS digital](https://mts-digital.ru)
+* November 2021 - to present. Team lead  @ [MTS digital](https://mts-digital.ru)
 
 ### Education
 
