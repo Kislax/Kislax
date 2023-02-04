@@ -59,7 +59,7 @@ I am fond of creating a media content.
 * June 2020 - Jule 2021.  CTO  @ [Baltavtomatika](https://baltgps.ru/)
 * August 2021 - Febrary 2022. Developer  @ [MTS](https://mts.ru/)
 * Febrary 2022 - November 2022. Middle developer  @ [MTS digital](https://mts-digital.ru)
-* November 2021 - to present. Team lead  @ [MTS digital](https://mts-digital.ru)
+* November 2022 - to present. Team lead  @ [MTS digital](https://mts-digital.ru)
 
 ### Education
 
