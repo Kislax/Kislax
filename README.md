@@ -1,10 +1,10 @@
 ## Hello!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   
-Hi, My name is Maxim, I full stack developer in MTS Digital. 
+Hi, My name is Maxim, I full stack developer in MTS Digital.
 
-I am currently working mainly on Python and Javaspript, but sometimes I use other languages.
-I have real experience with the doker, writing Pipeline, work on the production of Linux servers, also methodology CICD.
-I am fond of creating a media content.
+I am currently working mainly on Typescipt, but occasionally using other languages.
+I have real experience with docker, writing Pipeline, working in the production of Linux servers, as well as the CICD methodology.
+I am passionate about creating media content.
 
 ### My contacts
 
@@ -20,10 +20,6 @@ I am fond of creating a media content.
 
 <br/>
 
-
-
-
-
 ### Hard skills
 
 #### Languages
@@ -31,18 +27,18 @@ I am fond of creating a media content.
 <code><img height="35" alt="Python" title="Python" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
 <code><img height="35" alt="Javascript" title="Javascript" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png"></code>
 
-
 #### Technology
 
+<code><img height="40" alt="Typescript" title="Typescript" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"></code>
+<code><img height="40" alt="NestJS" title="NestJS" src="https://gitlab.com/uploads/-/system/project/avatar/38241258/Screen_Shot_2022-08-16_at_12.14.39_AM.png"></code>
+<code><img height="40" alt="Fastify" title="Fastify" src="https://avatars.mds.yandex.net/i?id=6acc261bec270a033e1bca2a96480f506fa6a0d3-4577300-images-thumbs&n=13"></code>
+<code><img height="40" alt="Vue" title="Vue" src="https://i.pinimg.com/originals/1a/55/d9/1a55d93ed074303b472dc5d6254b0bf7.png"></code>
 <code><img height="40" alt="Webpack" title="Webpack" src="https://habrastorage.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png"></code>
 <code><img height="40" alt="ReactJS" title="ReactJS" src="https://iconape.com/wp-content/png_logo_vector/react-logo.png"></code>
-<code><img height="40" alt="Typescript" title="Typescript" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"></code>
-<code><img height="40" alt="ExpressJS" title="ExpressJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/200px-Expressjs.png"></code>
 <code><img height="40" alt="Flask" title="Flask" src="https://e7.pngegg.com/pngimages/939/2/png-clipart-flask-python-web-framework-representational-state-transfer-software-framework-flask-python-web-application-django-thumbnail.png"></code>
 <code><img height="40" alt="Django" title="Django" src="https://cdn.iconscout.com/icon/free/png-512/django-1-282754.png"></code>
   **and many others technologies...**
 <br/>
-
 
 #### Media Create
 
